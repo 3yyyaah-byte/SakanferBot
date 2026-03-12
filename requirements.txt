@@ -1,0 +1,4 @@
+python-telegram-bot
+requests
+duckduckgo-search
+python-dotenv
